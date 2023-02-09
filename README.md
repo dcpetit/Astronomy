@@ -1,5 +1,6 @@
-# Astronomy
-My master's in astronomy and astrophysics thesis (project)
+# Astronomy/Astrophysics
+
+## My master's in astronomy and astrophysics thesis (project) ##
 
 I have been working on a master's thesis at KU Leuven in Belgium for some time.
 Much of the code I have been writing is saved here. I am applying to PhD positions around the world,
