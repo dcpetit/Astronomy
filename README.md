@@ -1,4 +1,4 @@
-# Astronomy/Astrophysics
+# Astronomy & Astrophysics
 
 ## Research at, and after, KU Leuven
 
