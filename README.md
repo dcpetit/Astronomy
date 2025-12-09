@@ -1,6 +1,6 @@
 # Astronomy & Astrophysics
 
-## Research at (and after), UniSQ and KU Leuven
+## Research at (and after) UniSQ and KU Leuven
 
 I worked on a master's thesis at KU Leuven in Belgium for some time. Much of the code I have been writing is saved here. I am continuing the research I started there at UniSQ in Australia along with other astrophysical projects. I aim to expand my thesis into a published paper in a peer-reviewed journal.
 
